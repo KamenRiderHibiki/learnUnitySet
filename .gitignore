@@ -8,7 +8,7 @@
 # 如果只需忽略某个特定文件，这样写：/[Pp]rojectSettings/ProjectVersion.txt
 # *号后面写文件后缀，表示需要忽略的文件类型，例如：*.csproj
 # 如果一个文件名前面没有任何符号，表示不管在哪一个目录下，这个文件都会被忽略
-/**/[Ll]ibrary/
+/*/[Ll]ibrary/
 /**/[Tt]emp/
 /**/[Oo]bj/
 /**/[Bb]uild/
